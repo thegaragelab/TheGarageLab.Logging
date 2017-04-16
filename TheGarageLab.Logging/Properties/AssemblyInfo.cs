@@ -7,9 +7,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("TheGarageLab.Logging")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Simple injectable logging abstraction.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("The Garage Lab")]
 [assembly: AssemblyProduct("TheGarageLab.Logging")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
