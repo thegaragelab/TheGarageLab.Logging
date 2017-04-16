@@ -9,11 +9,6 @@ namespace TheGarageLab.Logging.Test
     /// </summary>
     public class TestDebugExtensions : TestData
     {
-        /// <summary>
-        /// Constructor to set up test data
-        /// </summary>
-        public TestDebugExtensions() : base() { }
-
         [Fact]
         public void NullMessageWillFail()
         {
