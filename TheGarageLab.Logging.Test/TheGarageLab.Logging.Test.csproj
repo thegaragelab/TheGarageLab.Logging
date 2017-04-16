@@ -71,6 +71,7 @@
     <Compile Include="TestData.cs" />
     <Compile Include="TestDebugExtensions.cs" />
     <Compile Include="TestInfoExtensions.cs" />
+    <Compile Include="TestWarnExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="coverage.bat" />
