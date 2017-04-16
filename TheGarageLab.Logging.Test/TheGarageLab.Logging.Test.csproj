@@ -71,6 +71,7 @@
     <Compile Include="TestData.cs" />
     <Compile Include="TestDebugExtensions.cs" />
     <Compile Include="TestErrorExtensions.cs" />
+    <Compile Include="TestFatalExtensions.cs" />
     <Compile Include="TestInfoExtensions.cs" />
     <Compile Include="TestWarnExtensions.cs" />
   </ItemGroup>
